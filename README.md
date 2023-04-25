@@ -2,8 +2,7 @@
 
 This repository contains a set of Jupyter notebooks focused on feature engineering techniques in machine learning. The following notebooks are included:
 
-- Feature Engineering- Handling Categorical Features(2).ipynb: This notebook explores techniques for handling categorical features, including one-hot encoding, frequency encoding, and mean encoding.
-- Feature Engineering- Handling Categorical Features.ipynb: This notebook further explores techniques for handling categorical features, including label encoding and target encoding.
+- Feature Engineering- Handling Categorical Features.ipynb: This notebook explores techniques for handling categorical features, including one-hot encoding, frequency encoding, and mean encoding.
 - Feature Engineering- Normalization and Standardization.ipynb: This notebook covers normalization and standardization techniques for scaling numerical data.
 - Feature Engineering-Techniques To Handle Missing Values.ipynb: This notebook explores techniques for handling missing data, including mean imputation, median imputation, and mode imputation.
 
